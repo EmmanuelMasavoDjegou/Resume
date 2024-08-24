@@ -1,10 +1,11 @@
 # Ph.D. Candidate in Statistics
 
+## Skills
 - **Programming:** Python, R, MATLAB, SAS
 - **Statistics:** Probability distributions, Bayesian and Frequentist methods, Dimensionality reduction
 - **Database Management:** MySQL, Hadoop
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
-- **Deep Learning:** [Specify techniques or frameworks if applicable]
+- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Transformers
 - **Data Visualization:** Tableau
 - **Cloud Computing:** AWS
 
