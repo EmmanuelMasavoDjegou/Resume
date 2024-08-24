@@ -82,7 +82,6 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
 - Gained over 3 years of experience in hypothesis testing, confidence intervals, ANOVA, and linear regression.
-
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
 **Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)**
@@ -92,7 +91,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Leadership Experience
 
-**Chair, Speaker Selection Committee @ Excellence Talks**  
+**Chair, Speaker Selection Committee @ Excellence Talks**
 *Jan 2021 – Aug 2024*  
 - Progressed from Board Member to Treasurer, and then Chair of the Speaker Selection Committee.
 - Cultivated a culture of excellence and inspired future generations.
