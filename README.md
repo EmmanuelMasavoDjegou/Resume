@@ -1,18 +1,38 @@
 # Ph.D. Candidate in Statistics
 
-#### Technical Skills: SQL, Python, Hadoop, MATLAB, AWS
+#### Technical Skills: SQL, Python, Hadoop, AWS, MATLAB
+
+### 
 
 ## Education
-- Ph.D. in Statistics | Missouri University of Science and Technology (_Spring 2026_)								       		
+- Ph.D., Statistics | Missouri S&T (_Spring 2026_)								       		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AI Model Trainer @ Outlier AI (_May 2024 - Present_)**
+- Improved the AI model's ability to reason through and solve complex math problems in the Flamingo Math Reasoning R4 project.
+- Developed and evaluated advanced prompts to train a large language model (LLM) for the Goldfish Crackers project.
+- Created and assessed audio-based prompts to ensure high-quality AI responses in the Dolphin Genesis ATT project.
+- Designed expert-level multiple-choice questions in Statistics, challenging standard AI capabilities for the Dolphin STEM Q&A project.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
+- Developed and implemented a measure for teaching effectiveness using student performance data, applying intra-correlation coefficients (ICC) with mixed effects models in R. Demonstrated minimal impact of professors on student grades and no significant correlation with SET scores.
+- Investigated the validity of Student Evaluation of Teaching (SET) surveys as predictors of teaching effectiveness, providing insights into the reliability of SET assessments.
+
+**Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
+- Mentored underrepresented data scientists and analyzed long-term economic growth factors in Mexico using Microsoft Excel and Tableau.
+- Conducted a workshop for 100+ participants on "Predictive Modeling with Machine Learning for Customer Churn Analysis," demonstrating expertise in marketing analytics.
+- Completed 15+ real-world data science projects across Engineering, Healthcare, Marketing, Insurance, and Finance, showcasing strong data analysis skills.
+
+**Teaching Assistant @ Missouri S&T (_Aug 2020 - May 2023_)**
+- Achieved a teaching effectiveness score above 3.5/4.0 in Calculus labs and lectures, received strong student reviews, and was promoted to teach a 3000-level Applied Engineering Statistics course.
+- Improved teaching effectiveness score from 1.53 to 3.67/4.0, demonstrating adaptability and perseverance.
+- Accumulated over 3 years of experience teaching probability distribution modeling using Excel, experimental design, statistical inference techniques including hypothesis testing, confidence intervals, ANOVA, and linear regression with JMP.
+
+**Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)**
+
+- Led the design and implementation of a statistical survey for the "Insurance for Strengthening Human Capital" (ISHC) project.
+- Developed a Python-based optimization algorithm, reducing survey team allocation time from hours to under 2 minutes, significantly improving efficiency.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
