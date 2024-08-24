@@ -1,6 +1,6 @@
 # Ph.D. Candidate in Statistics
 
-## Skills
+## Technical Skills
 - **Programming:** Python, R, MATLAB, SAS
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
 - **Database Management:** MySQL, Hadoop
