@@ -2,7 +2,7 @@
 
 ## Skills
 - **Programming:** Python, R, MATLAB, SAS
-- **Statistics:** Probability distributions, Bayesian and Frequentist methods, Dimensionality reduction
+- **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
 - **Database Management:** MySQL, Hadoop
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Transformers
