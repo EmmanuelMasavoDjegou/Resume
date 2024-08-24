@@ -1,11 +1,12 @@
 # Ph.D. Candidate in Statistics
 
-#### Programming: Python, R, MATLAB, SAS
-#### Statistics and Probability: Probability distributions, Over and undersampling, Bayesian and frequentist statistics, Dimension reduction
-#### Database Management: MySQL, Hadoop
-#### Machine learning and Deep learning: Linear regression, Logistic regression, Naive Bayes, Decision tree, Random forest algorithm, K-nearest neighbor (KNN), K means algorithm
-### Data Vizualization: Tableau
-#### Cloud computing: Amazon Web Servive (AWS)
+- **Programming:** Python, R, MATLAB, SAS
+- **Statistics:** Probability distributions, Bayesian and Frequentist methods, Dimensionality reduction
+- **Database Management:** MySQL, Hadoop
+- **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
+- **Deep Learning:** [Specify techniques or frameworks if applicable]
+- **Data Visualization:** Tableau
+- **Cloud Computing:** AWS
 
 ## Education
 - Ph.D., Statistics | Missouri S&T (_Spring 2026_)								       		
