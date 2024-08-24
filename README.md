@@ -44,22 +44,18 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
   - **Research Expertise: Deep Learning for Survival Analysis** 
-    - **Survaival Analysis:** Reccurent Events, Cox Proportional Hazard Model, Accelerated Life Models, Effective Age Process
-      - *Paper In Progress:* Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes    
-      
-    ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
+    - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
+      - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
+
+        ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
+
+    - **Deep-Learning Methods for Survival Analysis**  
+        - **Deep Learning-Based Survival Analysis:** Cox-based DNN,RNN-SURV
+           
+        ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
   - **Relevant Coursework:** 
-    - Probability & Statistics
-    - Regression Analysis using R
-    - Computational Bayesian Methods using Python
-    - Categorical Data Analysis using SAS
-    - Linear Models using R
-    - Multivariate Analysis using R
-    - Nonparametric Statistical Methods using R
-    - Stochastic Processes
-    - Time Series Analysis with R
-    - Financial Mathematics I & II
+    Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
              		
 
 ## Work Experience
