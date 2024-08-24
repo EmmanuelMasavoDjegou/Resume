@@ -1,5 +1,6 @@
 # Ph.D. Candidate in Statistics
 
+
 ## Technical Skills
 - **Programming:** Python, R, MATLAB, SAS
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
@@ -8,6 +9,16 @@
 - **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Transformers
 - **Data Visualization:** Tableau
 - **Cloud Computing:** AWS
+
+## Project Portfolio
+Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
+
+- **[Deep Learning-Based Concrete Compressive Strength Prediction](link)** - Skills:【 Data Science, Deep Learning, Python, AutoML, AutoKeras 】
+- **[Project 2: Project Title](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Brief description of the project, key techniques used, and impact/results.
+- **[Project 3: Project Title](link)** - Brief description of the project, key techniques used, and impact/results.
+
+For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
+
 
 **Education**
 
