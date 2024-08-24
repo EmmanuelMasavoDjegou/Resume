@@ -15,13 +15,14 @@
 - Designed expert-level multiple-choice questions in Statistics, challenging standard AI capabilities for the Dolphin STEM Q&A project.
 
 **Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
-- Developed and implemented a measure for teaching effectiveness using student performance data, applying intra-correlation coefficients (ICC) with mixed effects models in R. Demonstrated minimal impact of professors on student grades and no significant correlation with SET scores.
-- Investigated the validity of Student Evaluation of Teaching (SET) surveys as predictors of teaching effectiveness, providing insights into the reliability of SET assessments.
+- Developed and implemented a measure for teaching effectiveness using student performance data, applying intra-correlation coefficients (ICC) with mixed effects models in R.
+- Demonstrated minimal impact of professors on student grades and no significant correlation with Student Evaluation of Teaching (SET) scores.
+- Investigated the validity of SET surveys as predictors of teaching effectiveness, offering insights into the reliability of these assessments.
 
 **Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
-- Mentored underrepresented data scientists and analyzed long-term economic growth factors in Mexico using Microsoft Excel and Tableau.
-- Conducted a workshop for 100+ participants on "Predictive Modeling with Machine Learning for Customer Churn Analysis," demonstrating expertise in marketing analytics.
-- Completed 15+ real-world data science projects across Engineering, Healthcare, Marketing, Insurance, and Finance, showcasing strong data analysis skills.
+- Mentored underrepresented data scientists and analyzed economic growth factors in Mexico with Excel and Tableau.
+- Hosted a workshop for 100+ on "Predictive Modeling with Machine Learning for Customer Churn Analysis," highlighting expertise in marketing analytics.
+- Completed 15+ data science projects across Engineering, Healthcare, Marketing, Insurance, and Finance, demonstrating strong analysis skills.
 
 **Teaching Assistant @ Missouri S&T (_Aug 2020 - May 2023_)**
 - Achieved a teaching effectiveness score above 3.5/4.0 in Calculus labs and lectures, received strong student reviews, and was promoted to teach a 3000-level Applied Engineering Statistics course.
