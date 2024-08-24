@@ -32,8 +32,8 @@ Explore a range of projects demonstrating my expertise in data science. Each pro
 ![shutterstock_1624376548_b831bdf4c1-2](https://github.com/user-attachments/assets/3c036838-411a-4451-9504-d509858fff0d)
 
 - **[Advanced Data Visualization Techniques with Plotly, Cufflinks, and Pandas for Dynamic Financial Insights](https://www.kaggle.com/code/emmanueldjegou/advanced-financial-data-visualization-techniques)**
-  - Description: This project explored three powerful visualization techniques which are reshaping financial analysis: Static 3D plotting, Interactive 2D plotting, and Financial plots.
-  - Skills: Python, 3D Data Visualization, Interactive 2D Visualization, Financial Time Series, Matplotlib, NumPy
+  - **Description:** This project explored three powerful visualization techniques which are reshaping financial analysis: Static 3D plotting, Interactive 2D plotting, and Financial plots.
+  - **Skills:** Python, 3D Data Visualization, Interactive 2D Visualization, Financial Time Series, Matplotlib, NumPy
 
 ![How-Data-Analytics-is-Reshaping-Finance-The-Growing-Value-of-Financial-Analytics-in-2021](https://github.com/user-attachments/assets/9035eb2b-3831-40f9-9aaf-e19c7bf464da)
 
@@ -43,9 +43,10 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 ## Education
 
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
-  - **Research Expertise:** 
-    - Deep Learning for Survival Analysis
-   
+  - **Research Expertise: Deep Learning for Survival Analysis** 
+    - **Survaival Analysis:** Reccurent Events, Cox Proportional Hazard Model, Accelerated Life Models, Effective Age Process
+      - *Paper In Progress:* Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes    
+      
     ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
   - **Relevant Coursework:** 
