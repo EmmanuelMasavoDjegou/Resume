@@ -26,7 +26,7 @@ Explore a range of projects demonstrating my expertise in data science. Each pro
 For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
 
 
-**Education**
+## Education
 
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
   - **Research Expertise:** 
