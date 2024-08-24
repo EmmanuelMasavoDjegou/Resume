@@ -11,7 +11,7 @@
 
 
 ## AWS Certification
-- **AWS Certified Cloud Practitioner** | *September 2024*
+- **AWS Certified Cloud Practitioner | September 2024**
   - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
     <!-- - Key Project: [Project Name - Brief Description] -->
    
@@ -42,7 +42,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Education
 
-- **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
+- **Ph.D. in Statistics | Missouri S&T (_Expected Spring 2026_)**
   - **Research Expertise:** 
     - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
       - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
