@@ -21,19 +21,21 @@
 - Provided insights into the reliability of SET assessments.
 
 **Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
-- Mentored underrepresented data scientists and analyzed economic growth factors in Mexico with Excel and Tableau.
-- Hosted a workshop for 100+ on "Predictive Modeling with Machine Learning for Customer Churn Analysis," highlighting expertise in marketing analytics.
-- Completed 15+ data science projects across Engineering, Healthcare, Marketing, Insurance, and Finance, demonstrating strong analysis skills.
+- Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel and Tableau.
+- Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants.
+- Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance.
+- Demonstrated strong data analysis skills across diverse domains.
 
 **Teaching Assistant @ Missouri S&T (_Aug 2020 - May 2023_)**
-- Achieved a teaching effectiveness score above 3.5/4.0 in Calculus labs and lectures, received strong student reviews, and was promoted to teach a 3000-level Applied Engineering Statistics course.
-- Improved teaching effectiveness score from 1.53 to 3.67/4.0, demonstrating adaptability and perseverance.
-- Accumulated over 3 years of experience teaching probability distribution modeling using Excel, experimental design, statistical inference techniques including hypothesis testing, confidence intervals, ANOVA, and linear regression with JMP.
+- Achieved a teaching effectiveness score above 3.5/4.0 in Calculus labs and lectures, leading to a promotion to teach Applied Engineering Statistics.
+- Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
+- Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
+- Gained over 3 years of experience in hypothesis testing, confidence intervals, ANOVA, and linear regression.
 
 **Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)**
-
-- Led the design and implementation of a statistical survey for the "Insurance for Strengthening Human Capital" (ISHC) project.
-- Developed a Python-based optimization algorithm, reducing survey team allocation time from hours to under 2 minutes, significantly improving efficiency.
+- Led the statistical survey design for the "Insurance for Strengthening Human Capital" (ISHC) project.
+- Developed a Python-based optimization algorithm, cutting team allocation time from hours to under 2 minutes.
+- Significantly improved operational efficiency.
 
 
 ## Projects
