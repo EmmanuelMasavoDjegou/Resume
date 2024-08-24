@@ -19,9 +19,11 @@ Explore a range of projects demonstrating my expertise in data science. Each pro
 
 - **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)** - Skills: Deep Learning, Python, ANN, AutoML, H20
 
+https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl?scriptVersionId=136406944&cellId=2
   
 - **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, EDA, Feature Engineering, Machine Learning
 
+![siemens-healthineers_AT_Arrhythmias_Visual jpeg](https://github.com/user-attachments/assets/0b2a223b-2a53-48d0-bf23-107dd5a0771d)
 
 For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
 
