@@ -66,13 +66,15 @@
 - Organized five STEM career workshops, benefiting over 1,000 students.
 
 ## Awards & Achievements
-
 - **Aug 2024:** Completed a research paper and 3,238 lines of MATLAB simulation code in under a week.
 - **Aug 2023:** Ranked Kaggle Notebook and Dataset Expert, recognized for impactful contributions.
 - **Feb 2021:** Awarded the PGSM Master’s Scholarship in Statistics, Sorbonne University, France.
 - **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
 
-## Talks & Lectures
+## Select Conference Presentations
+- **Nov 2023:** Invited Speaker, Department of Mathematics & Statistics Graduate Seminars, “Accelerated Failure Time Model for Counting Processes and Applications,” Missouri S&T.
+- **Aug 2023:** Selected Speaker, BIPOC Mentorship Program Workshop Series, “Predictive Modeling with Machine Learning for Customer Churn Analysis,” KaggleX.
+- **Sep 2022:** Invited Speaker, Department of Mathematics & Statistics Graduate Seminars, “Data Science for Time Series Analysis in Targeted Learning,” Missouri S&T.
 
 
 
