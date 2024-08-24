@@ -11,7 +11,7 @@
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
 - **Database Management:** MySQL, Hadoop
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
-- **Deep Learning:** Neural Networks (NN), Recurrent Neural Networks (RNNs)
+- **Deep Learning:** Artificial Neural Networks (ANN), Recurrent Neural Networks (RNNs)
 - **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy
 - **Cloud Computing:** AWS
 
