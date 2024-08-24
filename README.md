@@ -6,7 +6,7 @@
 - **Database Management:** MySQL, Hadoop
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
 - **Deep Learning:** Neural Networks (NN), Recurrent Neural Networks (RNNs)
-- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas
+- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy
 - **Cloud Computing:** AWS
 
 
@@ -69,6 +69,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Found minimal impact of professors on student grades and no significant correlation with SET scores.
 - Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
 - Provided insights into the reliability of SET assessments.
+  ![AALHE Poster](https://github.com/user-attachments/assets/99c6312b-da39-4f25-b4c3-e200b5caf028)
 
 **Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel and Tableau.
