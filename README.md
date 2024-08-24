@@ -15,7 +15,7 @@ Explore a range of projects demonstrating my expertise in data science. Each pro
 
 - **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Skills: Deep Learning, Python, AutoML, AutoKeras
 - **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)** - Skills: Deep Learning, Python, ANN, AutoML, H20
-- **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, Data Preprocessing, EDA, Machine Learning, Feature Engineering, Model Building
+- **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, EDA, Feature Engineering, Machine Learning
 
 For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
 
