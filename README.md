@@ -1,11 +1,9 @@
-# Data Scientist
+# Ph.D. Candidate in Statistics
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: SQL, Python, Hadoop, MATLAB, AWS
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Statistics | Missouri University of Science and Technology (_Spring 2026_)								       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
