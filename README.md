@@ -10,7 +10,9 @@
 - **Cloud Computing:** AWS
 
 ## Education
-- Ph.D., Statistics | Missouri S&T (_Spring 2026_)								       		
+- Ph.D. in Statistics | Missouri S&T (_Expected Spring 2026_)
+  - **Research Expertise:** Deep Learning for Survival Analysis, Recurrent Events, Accelerated Life Models, Effective Age Processes
+  - **Relevant Coursework:** Probability, Regression Analysis using R, Computational Bayesian Methods using Python, Categorical Data Analysis using SAS, Linear Models using R, Multivariate Analysis using R, Nonparametric Statistical Methods using R, Stochastic Processes, Time Series Analysis with R, Financial Mathematics I & II                  		
 
 ## Work Experience
 **AI Model Trainer @ Outlier AI (_May 2024 - Present_)**
