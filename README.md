@@ -84,7 +84,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Demonstrated strong data analysis skills across diverse domains.
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
-**Graduate Teaching Assistant in Mathematics & Statistics @ Missouri S&T (_Aug 2020 - May 2023_)**
+**Graduate Teaching Assistant in Mathematics & Statistics @ Missouri S&T (_Aug 2020 - Present_)**
 - Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
