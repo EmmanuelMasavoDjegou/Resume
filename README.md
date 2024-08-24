@@ -1,6 +1,5 @@
 # Ph.D. Candidate in Statistics
 
-
 ## Technical Skills
 - **Programming:** Python, R, MATLAB, SAS
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
@@ -10,14 +9,22 @@
 - **Data Visualization:** Tableau
 - **Cloud Computing:** AWS
 
-## Project Portfolio
+
+## AWS Certification
+- **AWS Certified Cloud Practitioner** | *September 2024*
+  - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
+  - Key Project: [Project Name - Brief Description]
+
+## Data Science Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
 
 - **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Skills: Deep Learning, Python, AutoML, AutoKeras
 
 ![AutoML](https://github.com/user-attachments/assets/43a2832d-66f7-41e4-a777-d457d2c294e0)
 
-- **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)** - Skills: Deep Learning, Python, ANN, AutoML, H20
+- **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)**
+  - This project explores the application of H2O AutoML in bank customer churn prediction, aiming to optimize retention strategies for long-term profitability.
+  - Skills: Deep Learning, Python, ANN, AutoML, H20
 
 ![shutterstock_1624376548_b831bdf4c1-2](https://github.com/user-attachments/assets/3c036838-411a-4451-9504-d509858fff0d)
 
