@@ -19,21 +19,23 @@
 ## Data Science Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
 
-- **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)**
-  - This project explores both traditional methods and modern data-driven approaches, including AutoKeras, to predict concrete compressive strength. By combining these techniques, we aim to enhance prediction accuracy and streamline construction practices.
-  - Skills: Deep Learning, Python, AutoML, AutoKeras
+- **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, EDA, Feature Engineering, Machine Learning
+  - Description: This project aims to predict heart attack risk by performing exploratory data analysis, feature selection, engineering, and data standardization. We develop and evaluate machine learning models, including logistic regression and random forests, using metrics like accuracy, precision, recall, F1-score, and AUC-ROC. The best-performing model will be used for accurate risk prediction on new data.
+  - Skills: Python, EDA, Feature Engineering, Machine Learning, Model Building and Selection   
 
-![AutoML](https://github.com/user-attachments/assets/43a2832d-66f7-41e4-a777-d457d2c294e0)
+![siemens-healthineers_AT_Arrhythmias_Visual jpeg](https://github.com/user-attachments/assets/0b2a223b-2a53-48d0-bf23-107dd5a0771d)
 
 - **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)**
-  - This project explores the application of H2O AutoML in bank customer churn prediction, aiming to optimize retention strategies for long-term profitability.
+  - Description: This project explores the application of H2O AutoML in bank customer churn prediction, aiming to optimize retention strategies for long-term profitability.
   - Skills: Deep Learning, Python, ANN, AutoML, H20
 
 ![shutterstock_1624376548_b831bdf4c1-2](https://github.com/user-attachments/assets/3c036838-411a-4451-9504-d509858fff0d)
 
-- **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, EDA, Feature Engineering, Machine Learning
+- **[Advanced Data Visualization Techniques with Plotly, Cufflinks, and Pandas for Dynamic Financial Insights](https://www.kaggle.com/code/emmanueldjegou/advanced-financial-data-visualization-techniques)**
+  - Description: This project explored three powerful visualization techniques which are reshaping financial analysis: Static 3D plotting, Interactive 2D plotting, and Financial plots.
+  - Skills: Python, 3D Data Visualization, Interactive 2D Visualization, Financial Time Series, Matplotlib, NumPy
 
-![siemens-healthineers_AT_Arrhythmias_Visual jpeg](https://github.com/user-attachments/assets/0b2a223b-2a53-48d0-bf23-107dd5a0771d)
+![How-Data-Analytics-is-Reshaping-Finance-The-Growing-Value-of-Financial-Analytics-in-2021](https://github.com/user-attachments/assets/9035eb2b-3831-40f9-9aaf-e19c7bf464da)
 
 For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
 
