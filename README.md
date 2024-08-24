@@ -80,15 +80,12 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
 **Graduate Teaching Assistant in Mathematics & Statistics @ Missouri S&T (_Aug 2020 - May 2023_)**
+  ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 - Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
 - Gained over 3 years of experience in hypothesis testing, confidence intervals, ANOVA, and linear regression.
 
-
-  ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
-
-  
 **Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)**
 - Led the statistical survey design for the "Insurance for Strengthening Human Capital" (ISHC) project.
 - Developed a Python-based optimization algorithm, cutting team allocation time from hours to under 2 minutes.
