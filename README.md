@@ -6,7 +6,7 @@
 - **Database Management:** MySQL, Hadoop
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
 - **Deep Learning:** Neural Networks (NN), Recurrent Neural Networks (RNNs)
-- **Data Visualization:** Tableau
+- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas
 - **Cloud Computing:** AWS
 
 
