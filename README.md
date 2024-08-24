@@ -19,7 +19,7 @@
 ## Data Science Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
 
-- **[Revolutionizing Heart Attack Risk Prediction with Machine Learning](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)**
+- **[Machine Learning for Revolutionizing Heart Attack Risk Prediction](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)**
   - **Description:** This project aims to predict heart attack risk by performing exploratory data analysis, feature selection, engineering, and data standardization. We develop and evaluate machine learning models, including logistic regression and random forests, using metrics like accuracy, precision, recall, F1-score, and AUC-ROC. The best-performing model will be used for accurate risk prediction on new data.
   - **Skills:** Python, EDA, Feature Engineering, Machine Learning, Model Building and Selection   
 
