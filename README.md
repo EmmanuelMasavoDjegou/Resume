@@ -15,9 +15,10 @@
 - Designed expert-level multiple-choice questions in Statistics, challenging standard AI capabilities for the Dolphin STEM Q&A project.
 
 **Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
-- Developed and implemented a measure for teaching effectiveness using student performance data, applying intra-correlation coefficients (ICC) with mixed effects models in R.
-- Demonstrated minimal impact of professors on student grades and no significant correlation with Student Evaluation of Teaching (SET) scores.
-- Investigated the validity of SET surveys as predictors of teaching effectiveness, offering insights into the reliability of these assessments.
+- Developed a teaching effectiveness measure using student performance data and ICC with mixed effects models in R.
+- Found minimal impact of professors on student grades and no significant correlation with SET scores.
+- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
+- Provided insights into the reliability of SET assessments.
 
 **Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico with Excel and Tableau.
