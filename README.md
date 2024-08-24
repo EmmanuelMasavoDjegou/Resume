@@ -31,6 +31,9 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
   - **Research Expertise:** 
     - Deep Learning for Survival Analysis
+   
+    ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
+
   - **Relevant Coursework:** 
     - Probability & Statistics
     - Regression Analysis using R
