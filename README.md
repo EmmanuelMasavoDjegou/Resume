@@ -19,7 +19,9 @@
 ## Data Science Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
 
-- **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Skills: Deep Learning, Python, AutoML, AutoKeras
+- **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)**
+  - This project explores both traditional methods and modern data-driven approaches, including AutoKeras, to predict concrete compressive strength. By combining these techniques, we aim to enhance prediction accuracy and streamline construction practices.
+  - Skills: Deep Learning, Python, AutoML, AutoKeras
 
 ![AutoML](https://github.com/user-attachments/assets/43a2832d-66f7-41e4-a777-d457d2c294e0)
 
