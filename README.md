@@ -1,8 +1,11 @@
 # Ph.D. Candidate in Statistics
 
-#### Technical Skills: SQL, Python, Hadoop, AWS, MATLAB
-
-### 
+#### Programming: Python, R, MATLAB, SAS
+#### Statistics and Probability: Probability distributions, Over and undersampling, Bayesian and frequentist statistics, Dimension reduction
+#### Database Management: MySQL, Hadoop
+#### Machine learning and Deep learning: Linear regression, Logistic regression, Naive Bayes, Decision tree, Random forest algorithm, K-nearest neighbor (KNN), K means algorithm
+### Data Vizualization: Tableau
+#### Cloud computing: Amazon Web Servive (AWS)
 
 ## Education
 - Ph.D., Statistics | Missouri S&T (_Spring 2026_)								       		
@@ -26,7 +29,7 @@
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance.
 - Demonstrated strong data analysis skills across diverse domains.
 
-**Teaching Assistant @ Missouri S&T (_Aug 2020 - May 2023_)**
+**Graduate Teaching Assistant in Mathematics & Statistics @ Missouri S&T (_Aug 2020 - May 2023_)**
 - Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
