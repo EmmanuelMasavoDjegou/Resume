@@ -43,14 +43,13 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 ## Education
 
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
-  - **Research Expertise: Deep Learning for Survival Analysis** 
+  - **Research Expertise** 
     - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
       - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
 
-    - **Deep-Learning Methods for Survival Analysis**  
-        - **Deep Learning-Based Survival Analysis:** Cox-based DNN,RNN-SURV
+    - **Deep Learning-Based Survival Analysis:** Cox-based DNN,RNN-SURV
            
         ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
