@@ -27,7 +27,7 @@
 - Demonstrated strong data analysis skills across diverse domains.
 
 **Teaching Assistant @ Missouri S&T (_Aug 2020 - May 2023_)**
-- Achieved a teaching effectiveness score above 3.5/4.0 in Calculus labs and lectures, leading to a promotion to teach Applied Engineering Statistics.
+- Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
 - Gained over 3 years of experience in hypothesis testing, confidence intervals, ANOVA, and linear regression.
