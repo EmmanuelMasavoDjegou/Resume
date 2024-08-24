@@ -13,9 +13,9 @@
 ## Project Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
 
-- **[Deep Learning-Based Concrete Compressive Strength Prediction](link)** - Skills:【 Data Science, Deep Learning, Python, AutoML, AutoKeras 】
-- **[Project 2: Project Title](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Brief description of the project, key techniques used, and impact/results.
-- **[Project 3: Project Title](link)** - Brief description of the project, key techniques used, and impact/results.
+- **[Deep Learning-Based Concrete Compressive Strength Prediction](https://www.kaggle.com/code/emmanueldjegou/concrete-compressive-strength-prediction-automl)** - Skills: Deep Learning, Python, AutoML, AutoKeras
+- **[Deep Learning-Based Customer Churn Prediction in Banking](https://www.kaggle.com/code/emmanueldjegou/bank-customer-churn-prediction-using-h2o-automl)** - Skills: Deep Learning, Python, ANN, AutoML, H20
+- **[Unleashing the Power of Machine Learning: Revolutionizing Heart Attack Risk Prediction](https://www.kaggle.com/code/emmanueldjegou/heart-attack-risk-prediction-part-1?scriptVersionId=134653587)** - Skills: Python, Data Preprocessing, EDA, Machine Learning, Feature Engineering, Model Building
 
 For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink).
 
