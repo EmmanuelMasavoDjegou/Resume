@@ -13,7 +13,8 @@
 ## AWS Certification
 - **AWS Certified Cloud Practitioner** | *September 2024*
   - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
-  % - Key Project: [Project Name - Brief Description]
+    <!-- - Key Project: [Project Name - Brief Description] -->
+   
 
 ## Data Science Portfolio
 Explore a range of projects demonstrating my expertise in data science. Each project showcases skills in data analysis, model development, and real-world problem-solving.
