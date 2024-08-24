@@ -14,11 +14,8 @@
 - **Ph.D. in Statistics** | Missouri S&T (_Expected Spring 2026_)
   - **Research Expertise:** 
     - Deep Learning for Survival Analysis
-    - Recurrent Events
-    - Accelerated Life Models
-    - Effective Age Processes
   - **Relevant Coursework:** 
-    - Probability
+    - Probability & Statistics
     - Regression Analysis using R
     - Computational Bayesian Methods using Python
     - Categorical Data Analysis using SAS
