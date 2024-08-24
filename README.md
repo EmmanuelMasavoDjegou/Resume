@@ -49,7 +49,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
 
-    - **Deep Learning-Based Survival Analysis:** Cox-based DNN,RNN-SURV
+    - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM  
            
         ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
