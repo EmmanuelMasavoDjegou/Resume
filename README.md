@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Python, Hadoop, MATLAB, AWS
 
 ## Education
-- Ph.D., Statistics | Missouri University of Science and Technology (_Spring 2026_)								       		
+- Ph.D. in Statistics | Missouri University of Science and Technology (_Spring 2026_)								       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
