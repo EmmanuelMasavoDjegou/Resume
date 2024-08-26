@@ -98,8 +98,13 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Leadership Experience
 
-**Chair, Speaker Selection Committee @ Excellence Talks**
-*Jan 2021 – Aug 2024*  
+**Graduate Seminar Organizer @ Missouri S&T (_Aug 2024 – Present_)**  
+- Managed the Fall 2024 Graduate Seminar schedule, including topic organization and speaker coordination.
+- Facilitated seminars on research presentations, professional development, and guest lectures.
+- Enhanced engagement through effective communication and scheduling, including a successful kickoff event.
+
+
+**Chair, Speaker Selection Committee @ Excellence Talks (_Jan 2021 – Aug 2024_)**  
 - Progressed from Board Member to Treasurer, and then Chair of the Speaker Selection Committee.
 - Cultivated a culture of excellence and inspired future generations.
 - Organized five STEM career workshops, benefiting over 1,000 students.
