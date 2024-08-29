@@ -52,6 +52,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
   - **Research Expertise:** 
     - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
       - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
+      - **Description:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
 
