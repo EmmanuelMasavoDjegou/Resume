@@ -1,5 +1,3 @@
-# WELCOME TO MY OFFICIAL WEBSITE
-
 ## Personal Information
 - 👤 **Name:** Emmanuel Masavo DJEGOU 
 - 🎓 **Title:** Ph.D. Candidate in Statistics 
