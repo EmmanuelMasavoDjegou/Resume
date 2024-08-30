@@ -65,21 +65,21 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
           - **Kijima's Model II:** Extends the previous models to include imperfect interventions, offering a more realistic representation of practical scenarios.
 
         - **Estimaton Method**  
-          - **Semiparametric Estimators:** Designed for gap-time distributions, accounting for the influence of interventions.  
-          - **Rank-Based One-Step Estimator:** A new approach for estimating regression parameters, improving efficiency and robustness.
-          - **Aalen-Type Estimator:** Utilizes moments and nonparametric methods to estimate the baseline intensity function.
+          - **Efficient Semiparametric Estimators:** This approach combines the flexibility of nonparametric methods with the efficiency of parametric models, improving estimation accuracy without overly restrictive assumptions.
+          - **Rank-Based One-Step Estimator:** Enhances efficiency and robustness by accurately estimating regression parameters and overcoming convexity issues associated with the log-rank weight in the estimating function.
+          - **Aalen-Type Estimator:** Integrates moment-based and nonparametric maximum likelihood methods to enhance the precision and flexibility of baseline intensity function estimation.
 
         - **Analysis of Estimator Properties**  
           - Examination of asymptotic properties to ensure estimator consistency and efficiency.  
           - Evaluation of finite sample properties through empirical methods and simulations conducted in MATLAB to validate theoretical findings.
 
         - **Performance Evaluation**  
-          - Application of the enhanced AGT model on real-world datasets to assess its practical utility.  
-          - Testing robustness and predictive accuracy of the model in different intervention scenarios.
+          - The model's performance was tested using the bladder tumor data from Byar (1980), assessing practical utility and robustness in real-world intervention scenarios.  
+          - Demonstrated the predictive accuracy and applicability of the enhanced AGT model on this dataset.
 
     - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM  
            
-        ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
+          ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
   - **Relevant Coursework:** 
     Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
