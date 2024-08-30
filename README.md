@@ -79,7 +79,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
     - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM  
            
-          ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
+      ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
   - **Relevant Coursework:** 
     Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
