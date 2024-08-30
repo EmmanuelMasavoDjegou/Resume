@@ -17,7 +17,7 @@
 
 
 ## AWS Certification
-- **AWS Certified Cloud Practitioner (_September 2024_)**
+- **AWS Certified Cloud Practitioner (_Sitting September 2024_)**
   - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
     <!-- - Key Project: [Project Name - Brief Description] -->
    
@@ -52,9 +52,30 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
   - **Research Expertise:** 
     - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
       - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
-      - **Description:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
+      - **Overview:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
+
+      - **Summary**  
+      My research in Survival Analysis aims to enhance the accelerated gap times (AGT) model by incorporating effective age processes, providing a comprehensive framework to model systems undergoing interventions.
+
+        - **Effective Age Models Explored**  
+          - **Always Minimal Intervention Model:** Assumes minimal impact from interventions on system age.  
+          - **Always Perfect Intervention Model:** Considers interventions that fully reset the system's effective age.  
+          - **Kijima's Model II:** Extends the previous models to include imperfect interventions, offering a more realistic representation of practical scenarios.
+
+        - **Estimaton Method**  
+          - **Semiparametric Estimators:** Designed for gap-time distributions, accounting for the influence of interventions.  
+          - **Rank-Based One-Step Estimator:** A new approach for estimating regression parameters, improving efficiency and robustness.
+          - **Aalen-Type Estimator:** Utilizes moments and nonparametric methods to estimate the baseline intensity function.
+
+        - **Analysis of Estimator Properties**  
+          - Examination of asymptotic properties to ensure estimator consistency and efficiency.  
+          - Evaluation of finite sample properties through empirical methods and simulations conducted in MATLAB to validate theoretical findings.
+
+        - **Performance Evaluation**  
+          - Application of the enhanced AGT model on real-world datasets to assess its practical utility.  
+          - Testing robustness and predictive accuracy of the model in different intervention scenarios.
 
     - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM  
            
