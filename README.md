@@ -56,24 +56,24 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
 
-      - **Summary**  
+      - **Summary:**  
       My research in Survival Analysis aims to enhance the accelerated gap times (AGT) model by incorporating effective age processes, providing a comprehensive framework to model systems undergoing interventions.
 
-        - **Effective Age Models Explored**  
+        - **Effective Age Models Explored:**  
           - **Always Minimal Intervention Model:** Assumes minimal impact from interventions on system age.  
           - **Always Perfect Intervention Model:** Considers interventions that fully reset the system's effective age.  
           - **Kijima's Model II:** Extends the previous models to include imperfect interventions, offering a more realistic representation of practical scenarios.
 
-        - **Estimaton Method**  
+        - **Estimaton Methods:**  
           - **Efficient Semiparametric Estimators:** This approach combines the flexibility of nonparametric methods with the efficiency of parametric models, improving estimation accuracy without overly restrictive assumptions.
           - **Rank-Based One-Step Estimator:** Enhances efficiency and robustness by accurately estimating regression parameters and overcoming convexity issues associated with the log-rank weight in the estimating function.
           - **Aalen-Type Estimator:** Integrates moment-based and nonparametric maximum likelihood methods to enhance the precision and flexibility of baseline intensity function estimation.
 
-        - **Analysis of Estimator Properties**  
+        - **Analysis of Estimator Properties:**  
           - Examination of asymptotic properties to ensure estimator consistency and efficiency.  
           - Evaluation of finite sample properties through empirical methods and simulations conducted in MATLAB to validate theoretical findings.
 
-        - **Performance Evaluation**  
+        - **Performance Evaluation:**  
           - The model's performance was tested using the bladder tumor data from Byar (1980), assessing practical utility and robustness in real-world intervention scenarios.  
           - Demonstrated the predictive accuracy and applicability of the enhanced AGT model on this dataset.
 
