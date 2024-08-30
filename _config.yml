@@ -3,10 +3,15 @@ title: Emmanuel Masavo DJEGOU
 # theme: jekyll-theme-midnight
 
 # Other optional configurations:
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+
+# Add this line to include the path to your photo
+profile_photo: /assets/profile.jpg  
+
+# Make sure this path matches the actual location of your photo file
 # theme: jekyll-theme-slate
 
 
 # theme: jekyll-theme-merlot
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
