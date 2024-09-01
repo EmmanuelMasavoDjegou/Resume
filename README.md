@@ -20,7 +20,7 @@
 | **Responsive and Supportive**        | *"Very enthusiastic and was always eager to answer every question asked to its fullest extent."*<br>*"This guy is awesome. He provides everything you need for success. The responsiveness on email was insane. I have never received so much great feedback and assistance like Prof. Djegou did this semester. And I am a senior."* | Offers exceptional support and feedback, even for experienced students. |
 
 ## Technical Skills
-- **Programming:** Python, R, MATLAB, SAS
+- **Programming:** Python, R, MATLAB
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
 - **Database Management:** MySQL
 - **Machine Learning:** Regression, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
