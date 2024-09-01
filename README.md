@@ -6,8 +6,6 @@
 
 ## What Students Say About Me
 
-### **Applied Engineering Statistics (STAT 3113 101 & 102, Spring 2024)**
-
 | **Attribute**                        | **Student Feedback**                                                                                           | **Examples/Impact**                                               |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | **Passionate and Knowledgeable**     | *"He is very enthusiastic about teaching. It seems he truly wants everyone to be involved and learn from the course."*<br>*"Passion and knowledge of the subject"* | Demonstrates deep understanding and enthusiasm for statistics.    |
@@ -17,6 +15,9 @@
 | **Enthusiastic Classroom Presence**  | *"Your enthusiasm was greatly appreciated, especially in a class that is not exactly my personal interest. I could tell you wanted to teach and wanted us to learn, which is greatly appreciated."*<br>*"I loved his enthusiasm and knowledge on the course material. I really enjoyed going to this class and learning from him."* | Creates an enjoyable and motivating learning environment.        |
 | **Effective Homework and Assessments**| *"The slides were great; they were very organized and helpful."*<br>*"His homework is simple but relevant to the content and provides good means of practicing the material and learning. More of the same with the tests; they proved to be good reflections of the course content."* | Designs assignments and exams that effectively reinforce course material. |
 | **Responsive and Supportive**        | *"Very enthusiastic and was always eager to answer every question asked to its fullest extent."*<br>*"This guy is awesome. He provides everything you need for success. The responsiveness on email was insane. I have never received so much great feedback and assistance like Prof. Djegou did this semester. And I am a senior."* | Offers exceptional support and feedback, even for experienced students. |
+
+**_Applied Engineering Statistics (STAT 3113 101 & 102, Spring 2024)_**
+
 
 ## Technical Skills
 - **Programming:** Python, R, MATLAB
