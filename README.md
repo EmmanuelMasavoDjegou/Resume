@@ -5,6 +5,20 @@
 - 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
 
+## What Students Say About Me
+
+### **Applied Engineering Statistics (STAT 3113 101 & 102, Spring 2024)**
+
+| **Attribute**                        | **Student Feedback**                                                                                           | **Examples/Impact**                                               |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| **Passionate and Knowledgeable**     | *"He is very enthusiastic about teaching. It seems he truly wants everyone to be involved and learn from the course."*<br>*"Passion and knowledge of the subject"* | Demonstrates deep understanding and enthusiasm for statistics.    |
+| **Engaging and Motivating**          | *"Very enthusiastic about the material. He genuinely enjoyed teaching the class and genuinely cared about the education of the students."*<br>*"He is very happy about teaching the class. The subject might not be my cup of tea, but he shows us why it is needed and I love that it is his cup of tea."* | Engages students with his passion, making challenging topics more accessible. |
+| **Energetic and Beneficial Lectures**| *"Professor Djegou is very knowledgeable about statistics, and he shows that in class. He is also very enthusiastic and always comes to class with a good attitude."*<br>*"Best statistics teacher! The energy toward the subjects is awesome. Lectures are very beneficial."* | Delivers dynamic lectures that enhance learning and retention.    |
+| **Supportive and Receptive**         | *"He is helpful when students ask questions and makes sure that all of his students understand the material."*<br>*"He is very passionate about helping students and always responds very quickly. He takes the time to know everyone's names in the classes he teaches and he is very receptive to feedback."* | Provides timely support and builds strong rapport with students. |
+| **Enthusiastic Classroom Presence**  | *"Your enthusiasm was greatly appreciated, especially in a class that is not exactly my personal interest. I could tell you wanted to teach and wanted us to learn, which is greatly appreciated."*<br>*"I loved his enthusiasm and knowledge on the course material. I really enjoyed going to this class and learning from him."* | Creates an enjoyable and motivating learning environment.        |
+| **Effective Homework and Assessments**| *"The slides were great; they were very organized and helpful."*<br>*"His homework is simple but relevant to the content and provides good means of practicing the material and learning. More of the same with the tests; they proved to be good reflections of the course content."* | Designs assignments and exams that effectively reinforce course material. |
+| **Responsive and Supportive**        | *"Very enthusiastic and was always eager to answer every question asked to its fullest extent."*<br>*"This guy is awesome. He provides everything you need for success. The responsiveness on email was insane. I have never received so much great feedback and assistance like Prof. Djegou did this semester. And I am a senior."* | Offers exceptional support and feedback, even for experienced students. |
+
 ## Technical Skills
 - **Programming:** Python, R, MATLAB, SAS
 - **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
