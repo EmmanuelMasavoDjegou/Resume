@@ -1,4 +1,4 @@
-## Personal Information
+## EMMANUEL MASAVO DJEGOU
 - 🎓 **Title:** Ph.D. Candidate in Statistics 
 - 📞 **Phone:** +1 573 466 7494
 - ✉️ **Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)
