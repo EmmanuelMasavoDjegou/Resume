@@ -65,7 +65,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
   - **Research Expertise:** 
     - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
       - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
-      - **Overview:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
+      - **Overview:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in engineering, real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
 
         ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
 
@@ -90,7 +90,8 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
           - The model's performance was tested using the bladder tumor data from Byar (1980), assessing practical utility and robustness in real-world intervention scenarios.  
           - Demonstrated the predictive accuracy and applicability of the enhanced AGT model on this dataset.
 
-    - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM  
+    - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM
+    - **Current Work**: This research integrates deep learning with traditional survival analysis to enhance prediction accuracy and manage complex data. Deep learning models used in survival analysis include Cox-based DNN, which enhances Cox models; DeepHit, which predicts event time distributions; RNN-SURV, which models temporal dependencies; DeepWeiSurv, which applies the Weibull distribution; and DeepPAMM, which combines deep learning with additive hazards. These models unfortunately struggle with complex scenarios such as censoring, truncation, and competing risks in recurrent events. We are developing new deep learning methods to address these limitations, aiming to integrate these with traditional models for more accurate and robust survival predictions.  
            
       ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
