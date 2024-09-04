@@ -91,7 +91,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
           - Demonstrated the predictive accuracy and applicability of the enhanced AGT model on this dataset.
 
     - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM
-    - **Current Work**: This research is about integrating deep learning with traditional methods, using advanced models such as Cox-based Deep Neural Networks (DNN), DeepHit, RNN-SURV, DeepWeiSurv, and DeepPAMM to improve the predictive power. We also intend to address complex challenges related to various outcome types—including censoring, truncation, competing risks, and recurrent events—as well as data complexities like time-varying, high-dimensional features, and multimodality. This approach should results in more precise and robust predictions for machinery maintenance and reliability.
+    - **Current Work**: This research is about integrating deep learning with traditional methods, using advanced models such as Cox-based Deep Neural Networks (DNN), DeepHit, RNN-SURV, DeepWeiSurv, and DeepPAMM to improve the predictive power. We also intend to address complex challenges related to various outcome types—including censoring, truncation, competing risks, and recurrent events—as well as data complexities like time-varying, high-dimensional features, and multimodality. This approach should result in more precise and robust predictions for machinery maintenance and reliability.
            
       ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
 
