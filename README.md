@@ -30,7 +30,7 @@
 
 
 ## AWS Certification
-- **AWS Certified Cloud Practitioner (_Sitting September 2024_)**
+- **AWS Certified Cloud Practitioner (_September 2024_)**
   - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
     <!-- - Key Project: [Project Name - Brief Description] -->
    
