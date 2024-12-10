@@ -28,10 +28,6 @@
 - **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy, Tableau
 - **Cloud Computing:** AWS
 
-
-## AWS Certification
-- **AWS Certified Cloud Practitioner (_September 2024_)**
-  - Skills: Cloud fundamentals, core AWS services, cloud security, pricing models
     <!-- - Key Project: [Project Name - Brief Description] -->
    
 
