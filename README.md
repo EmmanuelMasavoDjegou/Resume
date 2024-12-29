@@ -1,6 +1,5 @@
-- 🎓 **Title:** Ph.D. Candidate in Statistics 
-- 📞 **Phone:** +1 573 466 7494
-- ✉️ **Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)
+- 🎓 **Title:** Ph.D. Candidate in Statistics
+- ✉️ **Email:** [emmanueldjegou5@gmail.com](mailto:emmanueldjegou5@gmail.com)
 - 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
 
@@ -142,12 +141,12 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Organized five STEM career workshops, benefiting over 1,000 students.
 
 ## Awards & Achievements
-- **Aug 2024:** Completed a research paper and 3,238 lines of MATLAB simulation code in 3 months.
 - **Aug 2023:** Ranked Kaggle Notebook and Dataset Expert, recognized for impactful contributions.
 - **Feb 2021:** Awarded the PGSM Master’s Scholarship in Statistics, Sorbonne University, France.
 - **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
 
 ## Select Conference Presentations
+- **Nov 2024** Efficient Estimation Under the Accelerated Gap-Time Model for Recurrent Events,” Poster Session, The University of Kansas. 
 - **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
