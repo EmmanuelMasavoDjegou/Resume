@@ -24,8 +24,7 @@
 - **Database Management:** MySQL, Microsoft Excel
 - **Machine Learning:** GLM, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
 - **Deep Learning:** Deep Neural Networks (DNNs), Recurrent Neural Networks (RNNs)
-- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy, Tableau
-- **Cloud Computing:** AWS
+- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy
 
     <!-- - Key Project: [Project Name - Brief Description] -->
    
