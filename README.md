@@ -58,13 +58,15 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - **Ph.D. in Statistics, Missouri S&T (_Expected Spring 2026_)**
   - **Research Expertise:** Neural Networks, Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Process
      ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
-     - **Contributions:** Developed advanced statistical models addressing data complexities such as censoring, repeated events, nonlinearity, and high dimensionality to quantify intervention effects on repairable systems' longevity, optimizing computational efficiency. Applied these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
+     - **Contributions:**
+         - Develop advanced statistical models addressing data complexities such as censoring, repeated events, nonlinearity, and high dimensionality to quantify intervention effects on repairable systems' longevity, optimizing computational efficiency.
+         - Apply these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
 
-      - **Work In Progress:**
-      - **Paper 1:** Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
-      - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models
-      - **Paper 3:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
-      - **Paper 4:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
+      - **In Progress:**
+         - **Paper 1:** Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
+         - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models
+         - **Paper 3:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
+         - **Paper 4:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
 
   - **Relevant Coursework:**
     Foundations of Data Management - Business Analytics & Data Science - Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
