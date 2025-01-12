@@ -132,7 +132,8 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Select Conference Presentations
 - **Nov 2024** ,”Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster, The University of Kansas.
-   ![f7d722ac-1237-4b8c-81cf-670874442109](https://github.com/user-attachments/assets/07dc38cf-5d29-4ffb-b2e5-d2418fbc8b74)
+   ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/1ac30e7f-50c6-48ed-b20f-6b69bb9606be)
+
 - **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
