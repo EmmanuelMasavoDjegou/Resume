@@ -131,7 +131,8 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
 
 ## Select Conference Presentations
-- **Nov 2024** ,”Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster, The University of Kansas. 
+- **Nov 2024** ,”Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster, The University of Kansas.
+  ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/fb44141a-e488-40fa-95d9-84f47438bd52)
 - **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
@@ -140,6 +141,11 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Reading about advancements in AI & Data Science
 - Reading about personal development (work ethic, making friends, financial literacy, etc.)
 - Running, Weight Lifting
+  
+
+https://github.com/user-attachments/assets/659c1c29-0a3a-488a-9b31-e8ba4b3efb80
+
+
 - Playing Tennis
 - Traveling and exploring new cultures
 
