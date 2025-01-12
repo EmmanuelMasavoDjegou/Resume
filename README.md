@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Emmanuel Masavo DJEGOU.
 - 😄 Pronouns: He/Him/His
-- 🎓 Background: Mathematics, Probability and Statistics
-- ✨ Interests: AI, Machine Learning, Deep Learning, Cloud Computing, and Quantum Computing. 
+- 🎓 Background: `Mathematics`, `Probability` and `Statistics`
+- ✨ Interests: `AI`, `Machine Learning`, `Deep Learning`, `Cloud Computing`, and `Quantum Computing`. 
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods.
 - 💼 Mission: Redefining Industry with AI-Driven Research.
 - 📫 You can reach me at emmanueldjegou5@gmail.com.
@@ -9,9 +9,11 @@
 - 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
 ## Technical Skills  
-- **Ph.D.-Level Expertise:** Deep Learning, Survival Analysis, and Advanced Statistical Modeling  
+- **Ph.D.-Level Expertise:** `Deep Learning`, `Survival Analysis`, and `Advanced Statistical Modeling` 
 - **Programming Proficiency:** `R`, `Python`, `MATLAB`, `SAS`  
-- **Data Management Expertise:** `SQL` 
+- **Data Management Expertise:** `SQL`
+- **Cloud Technology:** `AWS`
+- **Bilingual:** `English`, `French` 
 
 ## What Students Say About Me
 
@@ -25,9 +27,6 @@
 | **Enthusiastic Presence**  | *"Your enthusiasm made learning enjoyable."*<br>*"Passion for teaching is evident and appreciated."*               | Encourages active participation and interest.        |
 
 **_Applied Engineering Statistics (STAT 3113, Spring 2024)_**
-
-
-    <!-- - Key Project: [Project Name - Brief Description] -->
    
 
 ## Data Science Portfolio
@@ -57,50 +56,30 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 ## Education
 
 - **Ph.D. in Statistics, Missouri S&T (_Expected Spring 2026_)**
-  - **Research Expertise:** 
-    - **Survaival Analysis:** Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Processes
-      - **Paper:** Accelerated Gap Times Model With Fixed Covariates Under A Family Of Effective Age Processes
-      - **Overview:** Developed a family of models to quantify intervention effect on system longevity, shifting time scales, like accelerated life models, with applications in engineering, real estate, actuarial science, and medicine to predict depreciation, retirement, and intervention outcomes.
+  - **Research Expertise:** Neural Networks, Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Process
+     ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
+     - **Contributions:** Developed advanced statistical models addressing data complexities such as censoring, repeated events, nonlinearity, and high dimensionality to quantify intervention effects on repairable systems' longevity, optimizing computational efficiency. Applied these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
 
-        ![A-pictorial-representation-of-recurrent-event-data](https://github.com/user-attachments/assets/7c3e2d8f-998b-49f8-b049-48d6ae4025a4)
+      - **Work In Progress:**
+      - **Paper 1:** Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
+      - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models
+      - **Paper 3:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
+      - **Paper 4:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
 
-      - **Summary:**  
-      My research in Survival Analysis aims to enhance the accelerated gap times (AGT) model by incorporating effective age processes, providing a comprehensive framework to model systems undergoing interventions.
-
-        - **Effective Age Models Explored:**  
-          - **Always Minimal Intervention Model:** Assumes minimal impact from interventions on system age.  
-          - **Always Perfect Intervention Model:** Considers interventions that fully reset the system's effective age.  
-          - **Kijima's Model II:** Extends the previous models to include imperfect interventions, offering a more realistic representation of practical scenarios.
-
-        - **Estimaton Methods:**  
-          - **Efficient Semiparametric Estimators:** This approach combines the flexibility of nonparametric methods with the efficiency of parametric models, improving estimation accuracy without overly restrictive assumptions.
-          - **Rank-Based One-Step Estimator:** Enhances efficiency and robustness by accurately estimating regression parameters and overcoming convexity issues associated with the log-rank weight in the estimating function.
-          - **Aalen-Type Estimator:** Integrates moment-based and nonparametric maximum likelihood methods to enhance the precision and flexibility of baseline intensity function estimation.
-
-        - **Analysis of Estimator Properties:**  
-          - Examination of asymptotic properties to ensure estimator consistency and efficiency.  
-          - Evaluation of finite sample properties through empirical methods and simulations conducted in MATLAB to validate theoretical findings.
-
-        - **Performance Evaluation:**  
-          - The model's performance was tested using the bladder tumor data from Byar (1980), assessing practical utility and robustness in real-world intervention scenarios.  
-          - Demonstrated the predictive accuracy and applicability of the enhanced AGT model on this dataset.
-
-    - **Deep Learning-Based Survival Analysis:** Cox-based DNN, DeepHit, RNN-SURV, DeepWeiSurv, DeepPAMM
-    - **Current Work**: This research is about integrating deep learning with traditional methods, using advanced models such as Cox-based Deep Neural Networks (DNN), DeepHit, RNN-SURV, DeepWeiSurv, and DeepPAMM to improve the predictive power. We also intend to address complex challenges related to various outcome types—including censoring, truncation, competing risks, and recurrent events—as well as data complexities like time-varying, high-dimensional features, and multimodality. This approach should result in more precise and robust predictions for machinery maintenance and reliability.
-           
-      ![41467_2020_20167_Fig1_HTML](https://github.com/user-attachments/assets/998bbfca-7dcb-46f6-a6dc-6b995d3c2b1e)
-
-  - **Relevant Coursework:** 
-    Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
+  - **Relevant Coursework:**
+    Foundations of Data Management - Business Analytics & Data Science - Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
              		
 
 ## Work Experience
-**AI Model Trainer @ Outlier AI (_May 2024 - Present_)**
-- Improved the AI model's ability to reason through and solve complex math problems in the Flamingo Math Reasoning R4 project.
-- Developed and evaluated advanced prompts to train a large language model (LLM) for the Goldfish Crackers project.
-- Created and assessed audio-based prompts to ensure high-quality AI responses in the Dolphin Genesis ATT project.
-- Designed expert-level multiple-choice questions in Statistics, challenging standard AI capabilities for the Dolphin STEM Q&A project.
 
+## Principal Writer @ Medium (_Jan 2025 - Present_)  
+- Lead content creation for **NEXUS AI: THE BLOG**, exploring the intersection of:
+  - **Mathematics, Probability, and Statistics** — the foundation of innovations.
+  - **AI, ML, and DL** — shaping the future of predictive analytics.
+  - **Cloud and Quantum Computing** — redefining problem-solving and scalability.
+- Provide insights on how these fields converge to reshape reality and drive the future.
+  For a comprehensive overview, visit my [Medium Page](https://medium.com/@emmanueldjegou5).
+  
 **Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
 - Developed a teaching effectiveness measure using student performance data and ICC with mixed effects models in R.
 - Found minimal impact of professors on student grades and no significant correlation with SET scores.
@@ -108,7 +87,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Provided insights into the reliability of SET assessments.
   ![AALHE Poster](https://github.com/user-attachments/assets/99c6312b-da39-4f25-b4c3-e200b5caf028)
 
-**Lead Data Scientist @ KaggleX BIPOC Mentorship Program | Google (_Aug 2021 - Nov 2023_)**
+**KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel and Tableau.
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants.
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance.
@@ -134,19 +113,19 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Facilitated seminars on research presentations, professional development, and guest lectures.
 - Enhanced engagement through effective communication and scheduling, including a successful kickoff event.
 
-
 **Chair, Speaker Selection Committee @ Excellence Talks (_Jan 2021 – Aug 2024_)**  
 - Progressed from Board Member to Treasurer, and then Chair of the Speaker Selection Committee.
 - Cultivated a culture of excellence and inspired future generations.
 - Organized five STEM career workshops, benefiting over 1,000 students.
 
 ## Awards & Achievements
+- **Aug 2024:** Awarded KaggleX Advisor for outstanding leadership and mentorship in data science.
 - **Aug 2023:** Ranked Kaggle Notebook and Dataset Expert, recognized for impactful contributions.
 - **Feb 2021:** Awarded the PGSM Master’s Scholarship in Statistics, Sorbonne University, France.
 - **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
 
 ## Select Conference Presentations
-- **Nov 2024** Efficient Estimation Under the Accelerated Gap-Time Model for Recurrent Events,” Poster Session, The University of Kansas. 
+- **Nov 2024** ,”Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster Session, The University of Kansas. 
 - **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
