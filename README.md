@@ -132,19 +132,14 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Select Conference Presentations
 - **Nov 2024** ,”Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster, The University of Kansas.
-   ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/fb44141a-e488-40fa-95d9-84f47438bd52)
+   ![f7d722ac-1237-4b8c-81cf-670874442109](https://github.com/user-attachments/assets/07dc38cf-5d29-4ffb-b2e5-d2418fbc8b74)
 - **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
 
 ## Hobbies
 - Reading about advancements in AI & Data Science and personal development (faith, work ethic, making friends, financial literacy, etc.)
-   ![IMG_9156](https://github.com/user-attachments/assets/0de3477e-2887-42f8-9467-7852573deeba)
-
 - Running, Weight Lifting
-  - https://github.com/user-attachments/assets/659c1c29-0a3a-488a-9b31-e8ba4b3efb80
-  - https://github.com/user-attachments/assets/7b55d06d-eda2-4657-95d6-253bb187dc24
-
 - Playing Tennis
   ![IMG_8290](https://github.com/user-attachments/assets/af3fcf8b-a4cc-434e-9551-692ed40a91e3)
   
