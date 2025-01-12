@@ -5,7 +5,7 @@
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods.
 - 💼 Mission: Redefining Industry with AI-Driven Research.
 - 📫 You can reach me at emmanueldjegou5@gmail.com.
-- ⚡ Curiosity didn't kill this cat—it got me a Ph.D. and a habit of turning 'What if?' into 'Watch this!
+- ⚡ Curiosity didn't kill this cat—it got me a Ph.D. and a habit of turning 'What if?' into 'Watch this!'
 - 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
 ## Technical Skills  
