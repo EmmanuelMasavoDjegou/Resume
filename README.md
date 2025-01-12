@@ -136,6 +136,13 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
 - **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
 
+## Hobbies
+- Reading about advancements in AI & Data Science
+- Reading about personal development (work ethic, making friends, financial literacy, etc.)
+- Running, Weight Lifting
+- Playing Tennis
+- Traveling and exploring new cultures
+
 
 
 
