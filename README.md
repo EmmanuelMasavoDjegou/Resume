@@ -63,7 +63,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
          - Apply these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
 
       - **In Progress:**
-         - **Paper 1:** Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
+         - **Paper 1:** Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
          - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models
          - **Paper 3:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
          - **Paper 4:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
