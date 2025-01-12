@@ -78,7 +78,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Work Experience
 
-## Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)  
+**Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)**  
 - Lead content creation, exploring the intersection of:
   - **Mathematics, Probability, and Statistics** — the foundation of innovations.
   - **AI, ML, and DL** — shaping the future of predictive analytics.
@@ -86,28 +86,28 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Provide insights on how these fields converge to reshape reality and drive the future.
 - For a comprehensive overview, visit my [Medium Page](https://medium.com/@emmanueldjegou5).
   
-## Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)
+**Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
 - Developed a teaching effectiveness measure using student performance data and ICC with mixed effects models in R.
 - Found minimal impact of professors on student grades and no significant correlation with SET scores.
 - Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
 - Provided insights into the reliability of SET assessments.
   ![AALHE Poster](https://github.com/user-attachments/assets/99c6312b-da39-4f25-b4c3-e200b5caf028)
 
-## KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)
+**KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel and Tableau.
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants.
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance.
 - Demonstrated strong data analysis skills across diverse domains.
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
-## Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)
+**Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
 - Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.67/4.0, showing adaptability and perseverance.
 - Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP.
 - Gained over 3 years of experience teaching hypothesis testing, confidence intervals, ANOVA, and linear regression.
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
-## **Statistician Intern @ NISEA** (_Aug 2019 - Sep 2019_)
+**Statistician Intern @ NISEA (_Aug 2019 - Sep 2019_)**
 - Led the statistical survey design for the "Insurance for Strengthening Human Capital" (ISHC) project.
 - Developed a Python-based optimization algorithm, cutting team allocation time from hours to under 2 minutes.
 - Significantly improved operational efficiency.
