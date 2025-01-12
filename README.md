@@ -68,8 +68,12 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
          - **Paper 3:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
          - **Paper 4:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
 
-  - **Relevant Coursework:**
-    Foundations of Data Management - Business Analytics & Data Science - Probability & Statistics - Regression Analysis using R - Computational Bayesian Methods using Python - Categorical Data Analysis using SAS - Linear Models using R - Multivariate Analysis using R - Nonparametric Statistical Methods using R - Stochastic Processes - Time Series Analysis with R - Financial Mathematics I & II
+   - **Relevant Coursework**:
+      - **Data Management & Analytics**: Foundations of Data Management, Business Analytics & Data Science
+      - **Statistical Methods**: Probability & Statistics, Regression Analysis using R, Linear Models using R, Multivariate Analysis using R, Nonparametric Statistical Methods using R, Categorical Data Analysis using SAS
+      - **Advanced Statistical Techniques**: Computational Bayesian Methods using Python, Stochastic Processes, Time Series Analysis with R
+      - **Specialized Topics**: Financial Mathematics I & II
+
              		
 
 ## Work Experience
@@ -103,7 +107,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - Gained over 3 years of experience in hypothesis testing, confidence intervals, ANOVA, and linear regression.
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
-## Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)**
+## Statistician Intern @ National Institute of Statistics and Economic Analysis (_Aug 2019 - Sep 2019_)
 - Led the statistical survey design for the "Insurance for Strengthening Human Capital" (ISHC) project.
 - Developed a Python-based optimization algorithm, cutting team allocation time from hours to under 2 minutes.
 - Significantly improved operational efficiency.
