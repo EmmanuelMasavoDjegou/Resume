@@ -78,8 +78,8 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Work Experience
 
-## Principal Writer @ Medium (_Jan 2025 - Present_)  
-- Lead content creation for **NEXUS AI: THE BLOG**, exploring the intersection of:
+## Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)  
+- Lead content creation, exploring the intersection of:
   - **Mathematics, Probability, and Statistics** — the foundation of innovations.
   - **AI, ML, and DL** — shaping the future of predictive analytics.
   - **Cloud and Quantum Computing** — redefining problem-solving and scalability.
