@@ -1,13 +1,19 @@
+## My Profile
+
 - 👋 Hi, I'm Emmanuel Masavo DJEGOU.
 - 😄 Pronouns: He/Him/His
 - 🎓 Background: Mathematics, Probability and Statistics
-- ✨ Passions: AI, Machine Learning, Deep Learning, Cloud Computing, and Quantum Computing. 
+- ✨ Interests: AI, Machine Learning, Deep Learning, Cloud Computing, and Quantum Computing. 
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods.
 - 💼 Mission: Redefining Industry with AI-Driven Research.
 - 📫 You can reach me at emmanueldjegou5@gmail.com.
 - ⚡ Curiosity didn't kill this cat—it got me a Ph.D. and a habit of turning 'What if?' into 'Watch this!
 - 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
+## Technical Skills  
+- **Ph.D.-Level Expertise:** Deep Learning, Survival Analysis, and Advanced Statistical Modeling  
+- **Programming Proficiency:** `R`, `Python`, `MATLAB`, `SAS`  
+- **Data Management Expertise:** `SQL 
 
 ## What Students Say About Me
 
@@ -24,13 +30,6 @@
 **_Applied Engineering Statistics (STAT 3113 101 & 102, Spring 2024)_**
 
 
-## Technical Skills
-- **Programming:** Python, R, MATLAB, SAS
-- **Statistics:** Probability distributions, Statistical Inference, Bayesian and Frequentist methods, Dimensionality reduction
-- **Database Management:** MySQL, Microsoft Excel
-- **Machine Learning:** GLM, Naive Bayes, Decision Trees, Random Forest, KNN, K-Means
-- **Deep Learning:** Deep Neural Networks (DNNs), Recurrent Neural Networks (RNNs)
-- **Data Visualization:** Matplotlib, Plotly, Seaborn, GGplot, Cufflinks, Pandas, NumPy
 
     <!-- - Key Project: [Project Name - Brief Description] -->
    
