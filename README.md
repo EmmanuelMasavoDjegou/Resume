@@ -78,7 +78,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 
 ## Work Experience
 
-- **Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)**  
+**Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)**  
 - Lead content creation, exploring the intersection of:
   - **Mathematics, Probability, and Statistics** — the foundation of innovations.
   - **AI, ML, and DL** — shaping the future of predictive analytics.
