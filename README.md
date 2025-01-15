@@ -1,6 +1,4 @@
-# Welcome!
-
-- 👋 Hi, I'm Emmanuel DJEGOU.
+- 👋 Hi, I'm Emmanuel Masavo DJEGOU.
 - 😄 Pronouns: He/Him/His
 - 🎓 Background: `Mathematics`, `Probability` and `Statistics`
 - ✨ Interests: `AI`, `Machine Learning`, `Deep Learning`, `Cloud Computing`, and `Quantum Computing`. 
