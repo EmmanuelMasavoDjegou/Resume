@@ -63,13 +63,10 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
          - Apply these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
 
       - **In Progress:**
-         - **Paper 1:** Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention
-         - **Paper 2:** Rank-Based Smoothing for Effective Age Models with Temporal Covariate Effects
-         - **Paper 3:** Varying-Coefficient Models for Analyzing Imperfect Interventions in Recurrent Event Data
-         - **Paper 4:** Deep Learning for Nonlinear Relaxation in Effective Age Models
+         - **Paper 1:** Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention.
+         - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models.
 
    - **Relevant Coursework**:
-      - **Data Management & Analytics**: Foundations of Data Management, Business Analytics & Data Science
       - **Statistical Methods**: Probability & Statistics, Regression Analysis using R, Linear Models using R, Multivariate Analysis using R, Nonparametric Statistical Methods using R, Categorical Data Analysis using SAS
       - **Advanced Statistical Techniques**: Computational Bayesian Methods using Python, Stochastic Processes, Time Series Analysis with R
       - **Specialized Topics**: Financial Mathematics I & II
