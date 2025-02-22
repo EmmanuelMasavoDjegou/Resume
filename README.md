@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Emmanuel Masavo DJEGOU.
 - 😄 Pronouns: He/Him/His
 - 🎓 Background: `Mathematics`, `Probability` and `Statistics`
-- ✨ Interests: `AI`, `Machine Learning`, `Deep Learning`, `Cloud Computing`, and `Quantum Computing`. 
 - 🌱 Currently, I'm expanding the field of survival analysis through deep learning-based methods.
 - 💼 Mission: Redefining Industry with AI-Driven Research.
 - 📫 You can reach me at emmanueldjegou5@gmail.com.
@@ -10,7 +9,7 @@
 
 ## Technical Skills  
 - **Ph.D.-Level Expertise:** `Deep Learning`, `Survival Analysis`, and `Advanced Statistical Modeling` 
-- **Programming Proficiency:** `R`, `Python`, `MATLAB`, `SAS`  
+- **Programming Proficiency:** `R`, `Python`, `MATLAB`  
 - **Data Management Expertise:** `SQL`
 - **Cloud Technology:** `AWS`
 - **Bilingual:** `English`, `French` 
@@ -63,8 +62,8 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
          - Apply these models in engineering, real estate, actuarial science, and medical research to predict depreciation, retirement, and intervention outcomes.
 
       - **In Progress:**
-         - **Paper 1:** Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention.
-         - **Paper 2:** Deep Learning for Nonlinear Relaxation in Effective Age Models.
+         - **Paper 1:** Semiparametric Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention.
+         - **Paper 2:** A Deep Learning Method for Nonlinear Relaxation in Accelerated Effective Age Models.
 
    - **Relevant Coursework**:
       - **Statistical Methods**: Probability & Statistics, Regression Analysis using R, Linear Models using R, Multivariate Analysis using R, Nonparametric Statistical Methods using R, Categorical Data Analysis using SAS
@@ -74,27 +73,17 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
              		
 
 ## Work Experience
-
-**Principal Writer @ NEXUS AI: THE BLOG (_Jan 2025 - Present_)**  
-- Lead content creation, exploring the intersection of:
-  - **Mathematics, Probability, and Statistics** — the foundation of innovations.
-  - **AI, ML, and DL** — shaping the future of predictive analytics.
-  - **Cloud and Quantum Computing** — redefining problem-solving and scalability.
-- Provide insights on how these fields converge to reshape reality and drive the future.
-- For a comprehensive overview, visit my [Medium Page](https://medium.com/@emmanueldjegou5).
   
 **Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
 - Developed a teaching effectiveness measure using student performance data and ICC with mixed effects models in R.
 - Found minimal impact of professors on student grades and no significant correlation with SET scores.
 - Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
-- Provided insights into the reliability of SET assessments.
   ![AALHE Poster](https://github.com/user-attachments/assets/99c6312b-da39-4f25-b4c3-e200b5caf028)
 
 **KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel and Tableau.
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants.
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance.
-- Demonstrated strong data analysis skills across diverse domains.
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
 **Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
@@ -131,9 +120,10 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 - **Nov 2024** ,”Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention," Poster, The University of Kansas.
    ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/1ac30e7f-50c6-48ed-b20f-6b69bb9606be)
 
-- **Nov 2023:** Invited Speaker, “Accelerated Failure Time Model for Counting Processes,” Missouri S&T.
+- **Mar 2025:** Invited Speaker, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” AMS Sectional Meeting, University of Kansas, Lawrence, KS.  
+- **Mar 2025:** Selected Speaker, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” ENAR Spring Meeting, New Orleans, LA.
+- - **Nov 2024:** Poster Session, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” Probability and Statistics Conference on Stochastic Analysis and Related Areas, University of Kansas, Lawrence, KS.  
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
-- **Sep 2022:** Invited Speaker, “Data Science for Time Series Analysis,” Missouri S&T.
 
 ## Hobbies
 - Reading about advancements in AI & Data Science and personal development (faith, work ethic, making friends, financial literacy, etc.)
