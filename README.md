@@ -119,6 +119,7 @@ For a comprehensive overview, visit my [Project Portfolio](https://www.datascien
 ## Select Conference Presentations
 - **Mar 2025:** Invited Speaker, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” AMS Sectional Meeting, University of Kansas, Lawrence, KS.  
 - **Mar 2025:** Selected Speaker, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” ENAR Spring Meeting, New Orleans, LA.
+   ![IMG_9588](https://github.com/user-attachments/assets/76546447-7aa8-4d76-b1f9-a6039c4229be)
 - **Nov 2024:** Poster Session, “Semiparametric Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” Probability and Statistics Conference on Stochastic Analysis and Related Areas, University of Kansas, Lawrence, KS.
   ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/1ac30e7f-50c6-48ed-b20f-6b69bb9606be)
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
