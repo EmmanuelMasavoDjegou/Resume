@@ -76,10 +76,6 @@
 - Cultivated a culture of excellence and inspired future generations.
 - Organized five STEM career workshops, benefiting over 1,000 students.
 
-## Awards & Achievements
-- **Feb 2021:** Awarded the PGSM Master’s Scholarship in Statistics, Sorbonne University, France.
-- **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
-
 ## Select Conference Presentations
 - **Mar 2025:** Invited Speaker, “Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” AMS Sectional Meeting, University of Kansas, Lawrence, KS.  
 - **Mar 2025:** Selected Speaker, “Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” ENAR Spring Meeting, New Orleans, LA.
@@ -87,6 +83,10 @@
 - **Nov 2024:** Poster Session, “Efficient Estimation In Accelerated Effective Age Models With Imperfect Interventions,” Probability and Statistics Conference on Stochastic Analysis and Related Areas, University of Kansas, Lawrence, KS.
   ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/1ac30e7f-50c6-48ed-b20f-6b69bb9606be)
 - **Aug 2023:** Selected Speaker, “Predictive Modeling with Machine Learning for Customer Churn,” KaggleX.
+
+## Awards & Achievements
+- **Feb 2021:** Awarded the PGSM Master’s Scholarship in Statistics, Sorbonne University, France.
+- **Aug 2018:** Awarded the World Bank Group Master’s Scholarship in Statistics, Institute of Mathematics and Physical Science.
 
 ## Hobbies
 - Running, Weight Lifting
