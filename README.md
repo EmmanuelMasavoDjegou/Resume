@@ -43,12 +43,6 @@
 
 ## Work Experience
 
-**Graduate Research Assistant in Statistics @ Missouri S&T (_January 2024 - May 2024_)**
-- Developed a teaching effectiveness measure using student performance data and ICC with mixed effects models in R.
-- Found minimal impact of professors on student grades and no significant correlation with SET scores.
-- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
-  ![AALHE Poster](https://github.com/user-attachments/assets/99c6312b-da39-4f25-b4c3-e200b5caf028)
-
 **Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
 - Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics.
 - Improved teaching effectiveness score from 1.53 to 3.72/4.0, showing adaptability and perseverance.
