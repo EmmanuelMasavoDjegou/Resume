@@ -30,7 +30,7 @@
 - **Ph.D. in Statistics, Missouri S&T (_Expected Spring 2026_)**
      ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
 
-   - **Research Expertise:** Neural Networks, Reccurent Events, Cox PH Model, Accelerated Life Models, Effective Age Process
+   - **Research Expertise:** Neural Networks, Reccurent Events, Accelerated Life Models
       - **Paper 1:** Efficient Estimation in Accelerated Effective Age Models with Imperfect Intervention.
       - **Paper 2:** A Deep Learning Method for Nonlinear Relaxation in Accelerated Effective Age Models.
 
