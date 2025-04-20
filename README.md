@@ -49,17 +49,17 @@
 - Gained over 3 years of experience teaching experimental design, statistical inference methods, and regression analysis
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
-**Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
-- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
-- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R
-- Found minimal impact of professors on student grades and no significant correlation with SET scores
-
-**KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
+  **KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance
 - For a comprehensive overview, visit my [Project Portfolio](https://www.kaggle.com/emmanueldjegou)
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
+
+**Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
+- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
+- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R
+- Found minimal impact of professors on student grades and no significant correlation with SET scores
 
 ## Awards, Scholarships and Grants
 - **March 2025:** Graduate Student & CASE Travel Grants, Selected Speaker, ENAR Spring Meeting, New Orleans, LA, USA 	          	             
