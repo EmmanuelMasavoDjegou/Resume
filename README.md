@@ -61,7 +61,7 @@
 - For a comprehensive overview, visit my [Project Portfolio](https://www.kaggle.com/emmanueldjegou)
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
-## Awards, Scholarship and Grants
+## Awards, Scholarships and Grants
 - **March 2025:** Graduate Student & CASE Travel Grants, Selected Speaker, ENAR Spring Meeting, New Orleans, LA, USA 	          	             
 - **March 2025:** AMS Student Travel Grant, Invited Speaker, Central Sectional Meeting, University of Kansas, KS, USA 	                               
 - **Nov 2024:** NSF Travel Grant, Poster Presenter, Probability & Statistics Conference, University of Kansas, KS, USA 			
