@@ -35,7 +35,8 @@
       - **Paper 2:** A Deep Learning Method for Nonlinear Relaxation in Accelerated Effective Age Models.
 
    - **Relevant Coursework**:
-      Probability and Statistics, Regression Analysis, Computational Bayesian Methods, Categorical Data Analysis, Linear Model, Multivariate Analysis, Nonparametric Statistical Methods, Stochastic Processes, Time Series Analysis, Financial Mathematics I & II.
+
+     Probability and Statistics, Regression Analysis, Computational Bayesian Methods, Categorical Data Analysis, Linear Model, Multivariate Analysis, Nonparametric Statistical Methods, Stochastic Processes, Time Series Analysis, Financial Mathematics I & II.
 
              		
 
