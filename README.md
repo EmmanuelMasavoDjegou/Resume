@@ -50,10 +50,9 @@
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
   **KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
-- Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel
+- [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects
+- Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
-- Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance
-- For a comprehensive overview, visit my [Project Portfolio](https://www.kaggle.com/emmanueldjegou)
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
 **Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
