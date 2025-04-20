@@ -48,7 +48,7 @@
 - Gained over 3 years of experience teaching experimental design, statistical inference methods, and regression analysis
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
-  **KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
+**KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects
 - Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
