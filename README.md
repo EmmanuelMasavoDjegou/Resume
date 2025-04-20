@@ -75,19 +75,18 @@
 - **Nov 2024:** Poster Session, Probability and Statistics Conference on Stochastic Analysis and Related Areas, University of Kansas, KS
   ![6675fc19-445e-4056-9f84-52e831ceb36b](https://github.com/user-attachments/assets/1ac30e7f-50c6-48ed-b20f-6b69bb9606be)
 - **Aug 2023:** Selected Speaker, KaggleX
-  [1700347558241.pdf](https://github.com/user-attachments/files/19826459/1700347558241.pdf)
+  ![KaggleX Workshop 2023 Slides](https://github.com/user-attachments/assets/273f8323-2301-4b23-b4d4-b37dd4455d3d)
+
 
 ## Leadership Experience
 
 **Graduate Seminar Organizer @ Missouri S&T (_Aug 2024 – Present_)**  
-- Managed the Graduate Seminar schedule, including topic organization and speaker coordination
-- Facilitated seminars on research presentations, professional development, and guest lectures
+- Managed the department’s graduate seminar schedule, including topic organization and speaker coordination
 - Managed refreshments for each seminar session, including coordinating pizzas and drinks
 
 **Chair, Speaker Selection Committee @ Excellence Talks (_Jan 2021 – Aug 2024_)**  
 - Progressed from Board Member to Treasurer, and then Chair of the Speaker Selection Committee
-- Cultivated a culture of excellence and inspired future generations
-- Organized five STEM career workshops, benefiting over 1,000 students
+- Remotely co-organized five STEM career workshops, benefiting over 1,000 students in Republic of Benin
 
 ## Hobbies
 - Running, Weight Lifting
