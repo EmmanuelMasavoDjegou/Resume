@@ -44,10 +44,9 @@
 ## Work Experience
 
 **Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
-- Achieved a 3.5/4.0 teaching score in Calculus, earning a promotion to teach Applied Engineering Statistics
+- Consistently achieved a teaching score above 3.5/4.0 in Calculus, earning a promotion to teach Applied Engineering Statistics
 - Improved teaching effectiveness score from 1.53 to 3.72/4.0, showing adaptability and perseverance
-- Taught probability distribution modeling, experimental design, and statistical inference using Excel and JMP
-- Gained over 3 years of experience teaching hypothesis testing, confidence intervals, ANOVA, and linear regression
+- Gained over 3 years of experience teaching experimental design, statistical inference methods, and regression analysis
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
 **Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
@@ -59,7 +58,7 @@
 - Mentored underrepresented data scientists and analyzed economic growth factors in Mexico using Excel
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
 - Completed 15+ data science projects in Engineering, Healthcare, Marketing, Insurance, and Finance
-- For a comprehensive overview, visit my [Project Portfolio](https://www.datascienceportfol.io/emanuprojectslink)
+- For a comprehensive overview, visit my [Project Portfolio](https://www.kaggle.com/emmanueldjegou)
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
 
 ## Awards, Scholarship and Grants
