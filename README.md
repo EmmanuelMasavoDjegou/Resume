@@ -53,6 +53,8 @@
 - Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
   ![KaggleXPromotionalBanner](https://github.com/user-attachments/assets/8e9f946c-f6dd-4566-bb39-5284616cbe55)
+  ![KaggleX Advisor](https://github.com/user-attachments/assets/44cd9ec3-0ff1-4e5d-9343-3337142cdc2a)
+
 
 **Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
 - Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
