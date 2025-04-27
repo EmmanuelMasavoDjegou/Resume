@@ -8,7 +8,6 @@
 - **Ph.D.-Level Expertise:** `Deep Learning`, `Survival Analysis`, and `Advanced Statistical Modeling` 
 - **Programming Proficiency:** `R`, `Python`, `MATLAB`  
 - **Data Management Expertise:** `SQL`
-- **Cloud Technology:** `AWS`
 - **Bilingual:** `English`, `French` 
 
 ## What Students Say About Me
