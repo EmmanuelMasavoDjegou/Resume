@@ -61,7 +61,7 @@
 - Found minimal impact of professors on student grades and no significant correlation with SET scores
 
 ## Awards, Scholarships and Grants
-- **April 2025** Eloe Research Award, Honorable Mention, Department of Mathematics & Statistics, Missouri S&T, MO, USA 	                
+- **April 2025:** Eloe Research Award, Honorable Mention, Department of Mathematics & Statistics, Missouri S&T, MO, USA 	                
 - **March 2025:** Graduate Education & CASE Travel Grants, Selected Speaker, ENAR Spring Meeting, New Orleans, LA, USA 	          	             
 - **March 2025:** AMS Travel Grant, Invited Speaker, Central Sectional Meeting, University of Kansas, KS, USA 	                               
 - **Nov 2024:** NSF Travel Grant, Poster Presenter, Probability & Statistics Conference, University of Kansas, KS, USA 			
