@@ -77,7 +77,7 @@
 
 ## Leadership Experience
 
-**Graduate Seminar Organizer @ Missouri S&T (_Aug 2024 – Present_)**  
+**Graduate Seminar Program Lead @ Missouri S&T (_Aug 2024 – Present_)**  
 - Managed the department’s graduate seminar schedule, including topic organization and speaker coordination
 - Managed refreshments for each seminar session, including coordinating pizzas and drinks
 
