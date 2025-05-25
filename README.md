@@ -41,7 +41,7 @@
 
 **Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
 - Consistently achieved a teaching score above 3.5/4.0 in Calculus, earning a promotion to teach Applied Engineering Statistics
-- Improved teaching effectiveness score from 1.53 to 3.72/4.0, showing adaptability and perseverance
+- Improved teaching effectiveness score from 1.53 to 3.82/4.0, showing adaptability and perseverance
 - Gained over 3 years of experience teaching experimental design, statistical inference methods, and regression analysis
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
 
