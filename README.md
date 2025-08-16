@@ -1,5 +1,5 @@
 
-# Emmanuel Masavo DJEGOU
+# Emmanuel DJEGOU
 
 - **🎓 Ph.D. Candidate in Statistics | Missouri S&T**  
 - **📧 Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)  
