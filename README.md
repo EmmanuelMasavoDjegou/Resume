@@ -1,9 +1,9 @@
 
 # Emmanuel Masavo DJEGOU
 
-**Ph.D. Candidate in Statistics | Missouri University of Science & Technology**  
-**Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)
-**LinkedIn:** [linkedin.com/in/emmanuel-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)  
+- **🎓 Ph.D. Candidate in Statistics | Missouri University of Science & Technology**  
+- **📧 Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)  
+- **🔗 LinkedIn:** [linkedin.com/in/emmanuel-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)  
 
 ---
 
@@ -14,6 +14,7 @@
 - **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
 - **Bilingual:** `English`, `French` 
 
+---
 
 ## What Students Say About Me
 
