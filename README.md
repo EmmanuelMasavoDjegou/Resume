@@ -61,14 +61,14 @@
   <img width="1080" height="1080" alt="copy_C6CA1813-A4DD-472B-BD43-A330902E6676" src="https://github.com/user-attachments/assets/4b4d26cc-2d35-4a29-aba2-7fdcde1ed47b" />
 
 **Graduate Research Assistant** | Missouri S&T | Jun 2024 – Aug 2024 
-- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
-- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R
-- Found minimal impact of professors on student grades and no significant correlation with SET scores
+- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness.
+- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R.
+- Found minimal impact of professors on student grades and no significant correlation with SET scores.
 
 **KaggleX Advisor** | Kaggle | Aug 2021 – May 2025  
-- [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects
-- Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico
-- Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
+- [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects.
+- Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico.
+- Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants.
   ![KaggleX Advisor](https://github.com/user-attachments/assets/44cd9ec3-0ff1-4e5d-9343-3337142cdc2a)
 
 
