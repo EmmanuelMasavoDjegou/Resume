@@ -37,13 +37,22 @@
 
              		
 
-## Work Experience
+## 💼 Professional Experience
 
-**Graduate Teaching Assistant in Statistics @ Missouri S&T (_Aug 2021 - Present_)**
-- Consistently achieved a teaching score above 3.5/4.0 in Calculus, earning a promotion to teach Applied Engineering Statistics
-- Improved teaching effectiveness score from 1.53 to 3.82/4.0, showing adaptability and perseverance
-- Gained over 3 years of experience teaching experimental design, statistical inference methods, and regression analysis
+**Graduate Teaching Assistant in Statistics** | Missouri S&T | Aug 2021 – Present  
+- Taught Calculus & Applied Engineering Statistics, consistently scoring >3.5/4.0 in evaluations.  
+- Improved teaching effectiveness score from 1.53 to 3.82/4.0.  
+- Delivered instruction in experimental design, statistical inference, and regression analysis for 4+ years.  
   ![IMG_0231](https://github.com/user-attachments/assets/221c6262-5dfe-4d88-97df-8ffa124d4e9a)
+
+**Data Scientist Intern** | Reinsurance Group of America | Jun 2025 – Aug 2025  
+- Built predictive models in SQL (Snowflake) and R (Domino) for dynamic life underwriting.  
+- Optimized computations on ~16M records, reducing complexity from exponential to linear.  
+- Managed code reproducibility using GitHub Enterprise.  
+- Delivered technical and non-technical presentations to 100+ stakeholders.
+
+<img width="1080" height="1080" alt="copy_C6CA1813-A4DD-472B-BD43-A330902E6676" src="https://github.com/user-attachments/assets/4b4d26cc-2d35-4a29-aba2-7fdcde1ed47b" />
+
 
 **KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
 - [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects
