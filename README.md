@@ -76,7 +76,7 @@
 ## 🏆 Awards, Scholarships & Grants
 - Featured by **CodeSignal** for technical proficiency | Jul 2025  
 - **Paul W. Eloe Research Award**, Honorable Mention | Apr 2025  
-- Graduate Education & CASE Travel Grants, ENAR Spring Meeting | Mar 2025  
+- **Graduate Education & CASE Travel Grants**, ENAR Spring Meeting | Mar 2025  
 - **AMS Travel Grant**, Invited Speaker | Mar 2025  
 - **NSF Travel Grant**, Poster Presenter | Nov 2024  
 - **PGSM Master’s Scholarship**, Sorbonne University, France | Feb 2021  
