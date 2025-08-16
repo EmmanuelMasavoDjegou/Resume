@@ -1,14 +1,19 @@
-- 👋 Hi, I'm Emmanuel DJEGOU.
-- 🎓 Background: Mathematics, Probability and Statistics
-- 💼 Currently, I'm expanding the field of survival analysis through deep learning-based methods.
-- 📫 You can reach me at emmanueldjegou5@gmail.com.
-- 🔗 **LinkedIn:** [emmanuel-masavo-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-masavo-djegou-5652b2254)
 
-## Technical Skills  
-- **Ph.D.-Level Expertise:** `Deep Learning`, `Survival Analysis`, and `Advanced Statistical Modeling` 
-- **Programming Proficiency:** `R`, `Python`, `MATLAB`  
-- **Data Management Expertise:** `SQL`
+# Emmanuel Masavo DJEGOU
+
+**Ph.D. Candidate in Statistics | Missouri University of Science & Technology**  
+**Email:** [emdwmt@mst.edu](mailto:emdwmt@mst.edu)
+**LinkedIn:** [linkedin.com/in/emmanuel-djegou-5652b2254](https://www.linkedin.com/in/emmanuel-djegou-5652b2254/)  
+
+---
+
+## 🌟 Top Technical Skills
+- **Deep Survival Learning & Predictive Modeling**  
+- **Programming & Data Tools:** Python, R, MATLAB, SQL, Git/GitHub, Snowflake  
+- **Cloud & Big Data:** Cloud Computing, Parallel Programming  
+- **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
 - **Bilingual:** `English`, `French` 
+
 
 ## What Students Say About Me
 
@@ -21,21 +26,23 @@
 | **Effective Assessments**  | *"Homework and tests are well-designed and reflective of course content."*                                        | Reinforces learning through practical exercises.     |
 | **Enthusiastic Presence**  | *"Your enthusiasm made learning enjoyable."*<br>*"Passion for teaching is evident and appreciated."*               | Encourages active participation and interest.        |
 
-**_Applied Engineering Statistics (STAT 3113, Spring 2024)_**
-   
+**_Applied Engineering Statistics (STAT 3113, Spring 2024)_** 
 
-## Education
+---
 
-- **Ph.D. in Statistics, Missouri S&T (_Expected Spring 2026_)**
-     ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
+## 🎓 Education
 
-   - **Research Expertise:** Neural Networks, Reccurent Events, Accelerated Life Models
+**Ph.D. in Statistics** | Missouri University of Science & Technology  
+*Expected Graduation: Spring 2026*  
+- GPA: 3.7/4.0  
+- **Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events  
+- **Key Projects:**
+       ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
+  - **Accelerated Effective Age Models:** Developed survival models for intervention schemes; applied in reliability engineering and medical research. Tools: MATLAB (simulation), R (application).  
+  - **Deep Learning Integration:** Integrated deep neural networks to capture dynamic temporal effects, improving clinical risk prediction accuracy (metrics: C-index, AUC, survival curves). Tool: Python.  
+- **Relevant Coursework:** Probability & Statistics, Regression Analysis, Computational Bayesian Methods, Time Series, Multivariate Analysis, Categorical Data, Nonparametrics, Stochastic Processes, Cloud Computing & Big Data, Parallel Programming, Linear Models, Financial Mathematics I & II  
 
-   - **Relevant Coursework**:
-
-     Probability and Statistics, Regression Analysis, Computational Bayesian Methods, Categorical Data Analysis, Linear Model, Multivariate Analysis, Nonparametric Statistical Methods, Stochastic Processes, Time Series Analysis, Financial Mathematics I & II.
-
-             		
+---    		
 
 ## 💼 Professional Experience
 
@@ -51,28 +58,29 @@
 - Managed code reproducibility using GitHub Enterprise.  
 - Delivered technical and non-technical presentations to 100+ stakeholders.
 
-<img width="1080" height="1080" alt="copy_C6CA1813-A4DD-472B-BD43-A330902E6676" src="https://github.com/user-attachments/assets/4b4d26cc-2d35-4a29-aba2-7fdcde1ed47b" />
+  <img width="1080" height="1080" alt="copy_C6CA1813-A4DD-472B-BD43-A330902E6676" src="https://github.com/user-attachments/assets/4b4d26cc-2d35-4a29-aba2-7fdcde1ed47b" />
 
+**Graduate Research Assistant** | Missouri S&T | Jun 2024 – Aug 2024 
+- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
+- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R
+- Found minimal impact of professors on student grades and no significant correlation with SET scores
 
-**KaggleX Advisor @ Kaggle (_Aug 2021 - Present_)**
+**KaggleX Advisor** | Kaggle | Aug 2021 – May 2025  
 - [Project Portfolio](https://www.kaggle.com/emmanueldjegou): Completed 15+ data science projects
 - Mentored underrepresented data scientists and led a project on analyzing economic growth factors in Mexico
 - Hosted a workshop on "Predictive Modeling with Machine Learning for Customer Churn Analysis" for 100+ participants
   ![KaggleX Advisor](https://github.com/user-attachments/assets/44cd9ec3-0ff1-4e5d-9343-3337142cdc2a)
 
 
-**Graduate Research Assistant in Statistics @ Missouri S&T (_Jun 2024 - Aug 2024_)**
-- Investigated the validity of Student Evaluation of Teaching (SET) surveys for predicting teaching effectiveness
-- Developed a new teaching effectiveness measure using student performance data with mixed effects models in R
-- Found minimal impact of professors on student grades and no significant correlation with SET scores
+## 🏆 Awards, Scholarships & Grants
+- Featured by **CodeSignal** for technical proficiency | Jul 2025  
+- **Paul W. Eloe Research Award**, Honorable Mention | Apr 2025  
+- Graduate Education & CASE Travel Grants, ENAR Spring Meeting | Mar 2025  
+- **AMS Travel Grant**, Invited Speaker | Mar 2025  
+- **NSF Travel Grant**, Poster Presenter | Nov 2024  
+- **PGSM Master’s Scholarship**, Sorbonne University, France | Feb 2021  
+- **World Bank Master’s Scholarship**, University of Abomey-Calavi, Benin | Aug 2018	
 
-## Awards, Scholarships and Grants
-- **April 2025:** Paul W. Eloe Graduate Research Award, Honorable Mention, Department of Mathematics & Statistics, Missouri S&T, USA 	                
-- **March 2025:** Graduate Education & CASE Travel Grants, Selected Speaker, ENAR Spring Meeting, New Orleans, LA, USA 	          	             
-- **March 2025:** AMS Travel Grant, Invited Speaker, Central Sectional Meeting, University of Kansas, KS, USA 	                               
-- **Nov 2024:** NSF Travel Grant, Poster Presenter, Probability & Statistics Conference, University of Kansas, KS, USA 			
-- **Feb 2021:** PGSM Master’s Scholarship, awarded through international selection, Sorbonne University, France			 
-- **Aug 2018:** World Bank Master’s Scholarship in Probability & Statistics, University of Abomey-Calavi, Republic of Benin 		
 
 ## Conference Presentations
 - **Mar 2025:** Invited Speaker, AMS Sectional Meeting, University of Kansas, Lawrence, KS  
@@ -84,15 +92,22 @@
   ![KaggleX Workshop 2023 Slides](https://github.com/user-attachments/assets/273f8323-2301-4b23-b4d4-b37dd4455d3d)
 
 
-## Leadership Experience
+---
 
-**Graduate Seminar Program Lead @ Missouri S&T (_Aug 2024 – Present_)**  
-- Managed the department’s graduate seminar schedule, including topic organization and speaker coordination
-- Managed refreshments for each seminar session, including coordinating pizzas and drinks
+## 🎯 Leadership Experience
 
-**Chair, Speaker Selection Committee @ Excellence Talks (_Jan 2021 – Aug 2024_)**  
-- Progressed from Board Member to Treasurer, and then Chair of the Speaker Selection Committee
-- Remotely co-organized five STEM career workshops, benefiting over 1,000 students in Republic of Benin
+**Graduate Seminar Program Lead** | Missouri S&T | Aug 2024 – Jul 2025  
+- Coordinated seminar schedules and logistics for 15+ speaker sessions.  
+- Boosted engagement and ensured smooth execution of all departmental seminars.  
+
+---
+
+## 📚 Expertise in Print & Media
+- Authoring a book making **Deep Survival Learning** accessible and application-driven | Aug 2025  
+- Produces biweekly videos on data science, statistics, and survival analysis in a “**no code, no formula**” style | Jul 2025  
+
+
+---
 
 ## Hobbies
 - Running, Weight Lifting
@@ -100,6 +115,8 @@
 - Playing Tennis
   ![IMG_8290](https://github.com/user-attachments/assets/af3fcf8b-a4cc-434e-9551-692ed40a91e3)
   
+---
 
+*Let's connect and explore how we can leverage data science, deep learning, and statistics to solve meaningful problems!*
 
 
