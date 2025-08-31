@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Top Technical Skills
-- **Deep Survival Learning & Predictive Modeling**  
+- **Deep Learning, Survival Analysis & Predictive Modeling**  
 - **Programming & Data Tools:** Python, R, MATLAB, SQL, Git/GitHub, Snowflake  
 - **Cloud & Big Data:** Cloud Computing, Parallel Programming  
 - **Ph.D.-Level Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events
