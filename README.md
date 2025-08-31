@@ -34,8 +34,7 @@
 ## 🎓 Education
 
 **Ph.D. in Statistics** | Missouri University of Science & Technology  
-*Expected Graduation: Spring 2026*  
-- GPA: 3.7/4.0  
+*Expected Graduation: Spring 2026*
 - **Expertise:** Neural Networks, Accelerated Life Models, Recurrent Events  
 - **Key Projects:**
        ![Presentation3](https://github.com/user-attachments/assets/f781631a-a0ff-4e02-bf4b-570645f406ec)
